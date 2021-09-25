@@ -1,2 +1,2 @@
 # odin-recipes
-This repository contains all the odin projects.
+This is a simple HTML website made by using allrecipes.com site.
