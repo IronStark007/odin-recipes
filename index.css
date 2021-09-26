@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(220, 250, 220);
+    margin: auto;
+    padding: auto;
+}
+
+.title {
+    margin: 15px;
+    text-align: center;
+}
+
+a {
+    color: red;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 5px;
+}
